@@ -13,3 +13,12 @@
 ### **Technologies Used**:
 - Java: Primary language for development
 - RecyclerView: Used for creating a dynamic and scrollable list of items
+
+**"Here’s a screenshot of the app in action 📱✨:"**
+
+* As you scroll through the app, additional characters will be displayed dynamically, giving you an immersive experience!
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b162a656-f867-42aa-861d-2bf92d346612" alt="App Screenshot" width="180" />
+</p>
+
